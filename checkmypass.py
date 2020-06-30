@@ -57,4 +57,3 @@ if __name__ == '__main__':
 
 
 
-#SAVE THE PASSWORD AS THE TEXT FILE INSTEAD OF COMMAND LINE
